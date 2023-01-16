@@ -9,3 +9,4 @@ function lastElement(arr) {
 }
 
 // оператор экспорта нужно прописать ниже
+export default {firstElement, lastElement}
